@@ -7,7 +7,7 @@ output:
     keep_md: yes
 ---
 
-
+(See also my [full blog set here](https://wiscostret.wordpress.com/))
 
 **Introduction**
 
